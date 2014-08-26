@@ -6,7 +6,7 @@ First stab at an autonomous robot. Small 2 wheeled frog looking thing.
 Started off with the idea to make a platform to investigate robotic control, path planning, servo control, etc... 
 
 ###Original vision###
-- Four wheeled controlled by DC motors with encoders
+- Four wheeled, controlled by DC motors with encoders
 - Double decker wood base
 - Powered by 4 AA batteries
 - Breadboard for some glue circuitry (i.e. power regulators, motor drivers, etc.)
@@ -19,7 +19,7 @@ Started off with the idea to make a platform to investigate robotic control, pat
 
 
 ###Actual Hardware###
-- ~~Four~~ **Two** wheeled controlled by DC motors with encoders
+- ~~Four~~ **Two** wheeled, controlled by DC motors with encoders **(added front caster)**
 - ~~Double decker~~ **Single** wood base
 - Powered by 4 AA batteries
 - Breadboard for some glue circuitry (i.e. power regulators, motor drivers, etc.)
